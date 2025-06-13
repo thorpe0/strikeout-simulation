@@ -15,14 +15,6 @@ This project predicts the number of strikeouts a pitcher might record in a speci
 - **Libraries:** XGBoost, Pandas, NumPy, Scikit-learn, etc.
 - All dependencies are listed in the notebook and can be installed via `pip` as needed
 
-## How to Use
-
-1. Clone the repo or download the `.ipynb` file
-2. Run the notebook step-by-step in a Jupyter environment
-3. Output includes model evaluation, predicted strikeout distributions, and visualizations
-
-> No external files are needed besides an active internet connection to pull Statcast data
-
 ## Output
 
 - Simulation results are included in the notebook
